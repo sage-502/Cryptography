@@ -1,0 +1,8 @@
+[ ] 폴더명에 오탈자 수정 : Cryptograpy → Cryptography
+[ ] 파일명 통일 : 언더바 대신 대쉬 사용(_ → -) shift키 누르기 귀찮음...
+[ ] affine cipher 복호화 코드 작성 : 모듈로 역원 구하기 부터(확장 유클리드 알고리즘)
+[ ] substitution cipher by keyword
+[ ] vigenere cipher : monoalphabetic cipher vs. polyalphabitic cipher 언급
+[ ] IC, MIC 계산 코드 작성 -> 일단 vigenere에 넣어두기
+
+- cryptanalysis는 시간되면 추가.
