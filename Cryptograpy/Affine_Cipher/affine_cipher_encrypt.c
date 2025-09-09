@@ -53,4 +53,6 @@ int main(void) {
 	cipher[len] = '\0'; //암호문 마지막에 null 추가
 
 	printf("Crypto: %s\n", cipher); //결과 출력
+
+	return 0;
 }
