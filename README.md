@@ -12,7 +12,7 @@
 
 구성 예시
 ```
-Cryptography/
+Crypto/
 ├── README.md
 ├── Shift-Cipher/
 │   ├── shift-cipher.md           → 암호화 방식 요약
